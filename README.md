@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-I'm Michela — a PhD candidate in Applied Mathematics at the University of Houston.  
-I build machine learning pipelines for single-cell image analysis, feature quantification, and phenotypic profiling.
+I'm Michela — a Postdoctoral Researcher in Computational Imaging & Spatial Biology, with a PhD in Applied Mathematics from the University of Houston.
+I develop computational methods and machine learning pipelines for quantitative bioimage analysis, spatial proteomics, and the reconstruction and analysis of complex biological tissues.
 
+🔍 My research focuses on computational imaging and spatial omics, developing computational methods for the quantitative analysis of complex biological data. I combine applied mathematics, statistical modeling, and machine learning to extract meaningful insights from high-throughput imaging and omics datasets..
 
-🔍 My research focuses on the quantitative analysis of biological data, with an emphasis on developing computational pipelines for high-throughput microscopy-based imaging. I integrate mathematical modeling, statistical methods, and machine learning to help extract meaningful insights from complex, image-based datasets.
-
-🧠 I’ve worked at the intersection of applied mathematics, AI, and biomedical research — contributing to projects in cancer biology and neuroscience, and collaborating closely with interdisciplinary teams.
+🧠 I work at the intersection of applied mathematics, AI, and biomedical research, contributing to projects in cancer biology and neuroscience. My interests include image-based profiling, spatial biology, and computational approaches to understanding cellular phenotypes and tissue organization.
 
 📌 Recent work:
 - **SPACe**: open-source tool for analyzing Cell Painting data using AI-based segmentation and Earth Mover’s Distance  
@@ -15,7 +14,7 @@ I build machine learning pipelines for single-cell image analysis, feature quant
   
 📄 [Google Scholar](https://scholar.google.com/citations?user=o3NTbc0AAAAJ&hl=en&oi=ao)
 
-📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/michela-marini-bb813517a/) • [Email](mailto:mmarini2@uh.edu)  
+📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/michela-marini-bb813517a/) • [Email](mailto:mmarini@ibecbarcelona.eu)  
 
 
 ### 🛠 Skills
