@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Michela — a Postdoctoral Researcher in Computational Imaging & Spatial Biology, with a PhD in Applied Mathematics from the University of Houston.
+I'm Michela — a Postdoctoral Researcher in the [Spatial Biotechnology group](https://ibecbarcelona.eu/research-groups/spatial-biotechnology/) at IBEC, working at the intersection of computational imaging and spatial biology. I hold a PhD in Applied Mathematics from the University of Houston.
 I develop computational methods and machine learning pipelines for quantitative bioimage analysis, spatial proteomics, and the reconstruction and analysis of complex biological tissues.
 
 🔍 My research focuses on computational imaging and spatial omics, developing computational methods for the quantitative analysis of complex biological data. I combine applied mathematics, statistical modeling, and machine learning to extract meaningful insights from high-throughput imaging and omics datasets..
